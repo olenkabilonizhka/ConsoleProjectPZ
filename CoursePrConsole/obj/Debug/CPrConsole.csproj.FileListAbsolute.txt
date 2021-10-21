@@ -1,0 +1,12 @@
+C:\olenka\TestBDO\CPrConsole\CoursePrConsole\bin\Debug\CoursePrConsole.exe.config
+C:\olenka\TestBDO\CPrConsole\CoursePrConsole\bin\Debug\CoursePrConsole.exe
+C:\olenka\TestBDO\CPrConsole\CoursePrConsole\bin\Debug\CoursePrConsole.pdb
+C:\olenka\TestBDO\CPrConsole\CoursePrConsole\bin\Debug\DAL.dll
+C:\olenka\TestBDO\CPrConsole\CoursePrConsole\bin\Debug\DTO.dll
+C:\olenka\TestBDO\CPrConsole\CoursePrConsole\bin\Debug\DAL.pdb
+C:\olenka\TestBDO\CPrConsole\CoursePrConsole\bin\Debug\DTO.pdb
+C:\olenka\TestBDO\CPrConsole\CoursePrConsole\obj\Debug\CPrConsole.csprojAssemblyReference.cache
+C:\olenka\TestBDO\CPrConsole\CoursePrConsole\obj\Debug\CPrConsole.csproj.CoreCompileInputs.cache
+C:\olenka\TestBDO\CPrConsole\CoursePrConsole\obj\Debug\CPrConsole.csproj.CopyComplete
+C:\olenka\TestBDO\CPrConsole\CoursePrConsole\obj\Debug\CoursePrConsole.exe
+C:\olenka\TestBDO\CPrConsole\CoursePrConsole\obj\Debug\CoursePrConsole.pdb

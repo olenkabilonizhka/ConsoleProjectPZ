@@ -1,0 +1,9 @@
+C:\olenka\TestBDO\CPrConsole\DAL\bin\Debug\DAL.dll
+C:\olenka\TestBDO\CPrConsole\DAL\bin\Debug\DAL.pdb
+C:\olenka\TestBDO\CPrConsole\DAL\bin\Debug\DTO.dll
+C:\olenka\TestBDO\CPrConsole\DAL\bin\Debug\DTO.pdb
+C:\olenka\TestBDO\CPrConsole\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\olenka\TestBDO\CPrConsole\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\olenka\TestBDO\CPrConsole\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\olenka\TestBDO\CPrConsole\DAL\obj\Debug\DAL.dll
+C:\olenka\TestBDO\CPrConsole\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,6 @@
+C:\olenka\TestBDO\CPrConsole\DTO\bin\Debug\DTO.dll
+C:\olenka\TestBDO\CPrConsole\DTO\bin\Debug\DTO.pdb
+C:\olenka\TestBDO\CPrConsole\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\olenka\TestBDO\CPrConsole\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\olenka\TestBDO\CPrConsole\DTO\obj\Debug\DTO.dll
+C:\olenka\TestBDO\CPrConsole\DTO\obj\Debug\DTO.pdb
