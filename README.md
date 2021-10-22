@@ -7,10 +7,12 @@ DTO
 -----------------------------------
 * PersonDTO
 * Roles
+
 DAL 
 -----------------------------------
 * IPersonDAL (папка Interfaces)
 * PersonDAL (папка Repositories)
+
 CPrConsole 
 -----------------------------------
 * Program
@@ -18,6 +20,7 @@ CPrConsole
 * CommandUser
 * CommandAdmin
 * CommandLogIn
+
 DALTests
 -----------------------------------
 * PersonDALTests
